@@ -1,6 +1,6 @@
 {
     "id": "986dea6f-f28a-58c9-8596-fbf1db1f20ce",
-    "isConnected": "true",
+    "isConnected": True,
     "isLockedDown": true,
     "sessionType": "server",
     "dataview": {
@@ -18,7 +18,7 @@
             "URL": "no url",
             "databaseTable": "spot_data",
             "description": "test dataset-1",
-            "isActive": "true",
+            "isActive": True,
             "facets": [
                 {
                     "id": "0b166c42-ca3a-9ef4-a9ac-e242ce5e8daf",
@@ -197,7 +197,7 @@
             "URL": "no url",
             "databaseTable": "spot_data",
             "description": "test dataset-2",
-            "isActive": "true",
+            "isActive": True,
             "facets": [
                 {
                     "id": "1e54cbfa-9a4a-7c99-3308-4465410b6799",
