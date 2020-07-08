@@ -1,10 +1,10 @@
 {
-	"id": "11edf506-65ce-ac7d-86a6-44d88c748d8a",
+	"id": "73a58dac-c2cc-e113-1258-bf3c5d5d628c",
 	"isConnected": false,
 	"isLockedDown": true,
 	"sessionType": "server",
 	"dataview": {
-		"id": "95c84b5e-943b-517b-8528-b8568c244321",
+		"id": "32ae2ece-8869-a7bd-2f29-0234e8536c46",
 		"dataTotal": 0,
 		"dataSelected": 0,
 		"datasetIds": [],
@@ -13,7 +13,7 @@
 	},
 	"datasets": [
 		{
-			"id": "fa8e0d07-bfc1-bab5-850b-c72b299c83a8",
+			"id": "79662607-0036-7cff-6235-87e9429c2fa8",
 			"name": "data2.csv",
 			"URL": "no url",
 			"databaseTable": "spot_data",
@@ -21,7 +21,7 @@
 			"isActive": false,
 			"facets": [
 				{
-					"id": "97cb676c-e5fa-0ac4-78d6-280930d3c0a7",
+					"id": "1e54cbfa-9a4a-7c99-3308-4465410b6799",
 					"show": true,
 					"isActive": true,
 					"description": "data2...",
@@ -37,7 +37,7 @@
 						"transformedMaxAsText": "100",
 						"rules": [
 							{
-								"id": "b566420a-401d-6817-9f23-a3362b399df7",
+								"id": "66cd4f85-f4b4-38ba-ddfc-2ae5525d000e",
 								"expression": "data2",
 								"count": 3,
 								"group": "data2"
@@ -67,7 +67,7 @@
 					}
 				},
 				{
-					"id": "48fa2846-138f-93b5-6a7c-0e6df127b378",
+					"id": "5a1dc7c4-78b7-5e64-de52-8017f80b858c",
 					"show": true,
 					"isActive": true,
 					"description": "10, 40, 70...",
@@ -108,7 +108,7 @@
 					}
 				},
 				{
-					"id": "42017404-19fc-be3e-1fdf-49fa5d3c78a3",
+					"id": "1eb66e2d-8511-efc3-0da8-c97b32d61775",
 					"show": true,
 					"isActive": true,
 					"description": "20, 50, 80...",
@@ -149,7 +149,7 @@
 					}
 				},
 				{
-					"id": "3bee01bd-dadf-5c49-a991-713a326186ef",
+					"id": "73b72ba8-01e6-1c72-a436-45aa7c64419c",
 					"show": true,
 					"isActive": true,
 					"description": "30, 60, 90...",
