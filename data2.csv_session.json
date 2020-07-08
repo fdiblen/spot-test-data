@@ -1,0 +1,195 @@
+{
+	"id": "74bd6ed5-db29-4003-564f-863f6cfae82d",
+	"isConnected": false,
+	"isLockedDown": true,
+	"sessionType": "server",
+	"dataview": {
+		"id": "722d281a-ac52-078d-edb9-b746a96df3d1",
+		"dataTotal": 0,
+		"dataSelected": 0,
+		"datasetIds": [],
+		"facets": [],
+		"filters": []
+	},
+	"datasets": [
+		{
+			"id": "65d8feb6-175d-4b24-aeb2-e663ab6a8287",
+			"name": "data2.csv",
+			"URL": "no url",
+			"databaseTable": "spot_data",
+			"description": "test dataset-2",
+			"isActive": false,
+			"facets": [
+				{
+					"id": "238c2077-de63-af06-a313-f93eee74acba",
+					"show": true,
+					"isActive": true,
+					"description": "data2...",
+					"units": "",
+					"name": "dataset",
+					"type": "categorial",
+					"accessor": "dataset",
+					"categorialTransform": {
+						"transformedType": "categorial",
+						"transformedMin": 0,
+						"transformedMax": 100,
+						"transformedMinAsText": "0",
+						"transformedMaxAsText": "100",
+						"rules": [
+							{
+								"id": "7db15535-c785-003b-6f97-b2823f2eb2a8",
+								"expression": "data2",
+								"count": 3,
+								"group": "data2"
+							}
+						]
+					},
+					"datetimeTransform": {
+						"zone": "ISO8601",
+						"format": "ISO8601",
+						"transformedFormat": "ISO8601",
+						"transformedZone": "ISO8601"
+					},
+					"durationTransform": {
+						"units": "ISO8601",
+						"transformedUnits": "ISO8601",
+						"transformedZone": "ISO8601"
+					},
+					"continuousTransform": {
+						"type": "none",
+						"transformedType": "continuous",
+						"cps": []
+					},
+					"textTransform": {
+						"transformedType": "text",
+						"transformedMin": 0,
+						"transformedMax": 100
+					}
+				},
+				{
+					"id": "ac57e323-8c6d-a068-2fa3-ac2ba4f6edcf",
+					"show": true,
+					"isActive": true,
+					"description": "10, 40, 70...",
+					"units": "",
+					"name": "x",
+					"type": "continuous",
+					"accessor": "x",
+					"minvalAsText": "10",
+					"maxvalAsText": "70",
+					"categorialTransform": {
+						"transformedType": "categorial",
+						"transformedMin": 0,
+						"transformedMax": 100,
+						"transformedMinAsText": "0",
+						"transformedMaxAsText": "100",
+						"rules": []
+					},
+					"datetimeTransform": {
+						"zone": "ISO8601",
+						"format": "ISO8601",
+						"transformedFormat": "ISO8601",
+						"transformedZone": "ISO8601"
+					},
+					"durationTransform": {
+						"units": "ISO8601",
+						"transformedUnits": "ISO8601",
+						"transformedZone": "ISO8601"
+					},
+					"continuousTransform": {
+						"type": "none",
+						"transformedType": "continuous",
+						"cps": []
+					},
+					"textTransform": {
+						"transformedType": "text",
+						"transformedMin": 0,
+						"transformedMax": 100
+					}
+				},
+				{
+					"id": "f972d4ed-682b-db0c-2247-373b566bbdc3",
+					"show": true,
+					"isActive": true,
+					"description": "20, 50, 80...",
+					"units": "",
+					"name": "y",
+					"type": "continuous",
+					"accessor": "y",
+					"minvalAsText": "20",
+					"maxvalAsText": "80",
+					"categorialTransform": {
+						"transformedType": "categorial",
+						"transformedMin": 0,
+						"transformedMax": 100,
+						"transformedMinAsText": "0",
+						"transformedMaxAsText": "100",
+						"rules": []
+					},
+					"datetimeTransform": {
+						"zone": "ISO8601",
+						"format": "ISO8601",
+						"transformedFormat": "ISO8601",
+						"transformedZone": "ISO8601"
+					},
+					"durationTransform": {
+						"units": "ISO8601",
+						"transformedUnits": "ISO8601",
+						"transformedZone": "ISO8601"
+					},
+					"continuousTransform": {
+						"type": "none",
+						"transformedType": "continuous",
+						"cps": []
+					},
+					"textTransform": {
+						"transformedType": "text",
+						"transformedMin": 0,
+						"transformedMax": 100
+					}
+				},
+				{
+					"id": "572c9bc4-ec32-5a99-490d-7ad76dddd336",
+					"show": true,
+					"isActive": true,
+					"description": "30, 60, 90...",
+					"units": "",
+					"name": "z",
+					"type": "continuous",
+					"accessor": "z",
+					"minvalAsText": "30",
+					"maxvalAsText": "90",
+					"categorialTransform": {
+						"transformedType": "categorial",
+						"transformedMin": 0,
+						"transformedMax": 100,
+						"transformedMinAsText": "0",
+						"transformedMaxAsText": "100",
+						"rules": []
+					},
+					"datetimeTransform": {
+						"zone": "ISO8601",
+						"format": "ISO8601",
+						"transformedFormat": "ISO8601",
+						"transformedZone": "ISO8601"
+					},
+					"durationTransform": {
+						"units": "ISO8601",
+						"transformedUnits": "ISO8601",
+						"transformedZone": "ISO8601"
+					},
+					"continuousTransform": {
+						"type": "none",
+						"transformedType": "continuous",
+						"cps": []
+					},
+					"textTransform": {
+						"transformedType": "text",
+						"transformedMin": 0,
+						"transformedMax": 100
+					}
+				}
+			]
+		}
+	]
+}
